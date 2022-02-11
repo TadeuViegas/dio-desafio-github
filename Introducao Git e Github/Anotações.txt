@@ -1,0 +1,11 @@
+Comandos Git básicos
+1. git config
+2. git init
+3. git clone
+4. git add
+5. git commit
+6. git branch
+7. git checkout
+8. git remote
+9. git push
+10. git pull
